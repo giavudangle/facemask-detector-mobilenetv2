@@ -1,4 +1,7 @@
-## 🚀 Facemask Detection - MobileNetV2 CNN Architecture 🚀 
+## 🚀 Facemask Detection - MobileNetV2 CNN Architecture 🚀
+<img src="/images/3.png" width="100%" height="50%"/>
+<img src="/images/1.png" width="100%" height="50%"/>
+<img src="/images/2.png" width="100%" height="50%"/>
 
 ### 1. Makesure you already have libraries
 #### Create virtualenv
