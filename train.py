@@ -110,7 +110,7 @@ labels = to_categorical(labels)
 
 # Phân chia dữ liệu thành 2 phần là : tập huấn luyện và tập kiểm tra
 # 75% để huấn luyện và 25% còn lại để đánh giá kiểm tra
-(trainX,testX,trainY,testY) = train_test_split(data,labels,test_size=0.25,stratify=labels,random_state=42)
+(trainX,testX,trainY,testY) = train_test_split(data,labels,test_size=0.2,stratify=labels,random_state=42)
 
 # Xây dựng quy trình khởi tạo hình ảnh cho quá trình tăng dữ liệu (data augmentation)
 
