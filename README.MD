@@ -1,5 +1,5 @@
 ## 🚀 Facemask Detection - MobileNetV2 CNN Architecture 🚀
-<img src="/images/3.png" width="100%" height="50%"/>
+<img src="/images/loss_accuracy_plot.png" width="100%" height="50%"/>
 <img src="/images/1.png" width="100%" height="50%"/>
 <img src="/images/2.png" width="100%" height="50%"/>
 
