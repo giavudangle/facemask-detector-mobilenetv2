@@ -105,7 +105,7 @@ while True:
     # Lấy các khung hình từ luồng của video và resize kích thước (maxWidth = 400px)
 
 	frame = vs.read()
-	frame = imutils.resize(frame, width=400)
+	frame = imutils.resize(frame, width=1920)
 
     # Nhận diện khuôn mặt từ khung hình
 
